@@ -1,11 +1,9 @@
 # Fortnite-shop-guide
 
 > [!IMPORTANT]
-> **Find cosmetics:** [Fortnite.GG/Cosmetics]([https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17&sort=oldest](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15&sort=oldest))
+> **Find cosmetics:** [Fortnite.GG/Cosmetics](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15&sort=oldest)
 > 
-> **View shop history:** [FNBR.co/History](https://fnbr.co/history)
-> 
-> **Version limit:** Chapter 2 Season 7 (v17.50) and older only
+> **Version limit:** Chapter 2 Season 5 (v15.30) and older only
 
 &nbsp;
 
