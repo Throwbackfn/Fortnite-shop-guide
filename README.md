@@ -86,22 +86,6 @@ Each slot needs:
       "itemGrants": [""],
       "price": 0
   },
-  "daily7": {
-      "itemGrants": [""],
-      "price": 0
-  },
-  "daily8": {
-      "itemGrants": [""],
-      "price": 0
-  },
-  "daily9": {
-      "itemGrants": [""],
-      "price": 0
-  },
-  "daily10": {
-      "itemGrants": [""],
-      "price": 0
-  },
   "featured1": {
       "itemGrants": [""],
       "price": 0
@@ -109,19 +93,6 @@ Each slot needs:
   "featured2": {
       "itemGrants": [""],
       "price": 0
-},
-  "featured3": {
-      "itemGrants": [""],
-      "price": 0
-},
-  "featured4": {
-      "itemGrants": [""],
-      "price": 0
-},
-  "featured5": {
-      "itemGrants": [""],
-      "price": 0
-},
 ```
 
 &nbsp;
