@@ -109,19 +109,19 @@ Each slot needs:
   "featured2": {
       "itemGrants": [""],
       "price": 0
-}
+},
   "featured3": {
       "itemGrants": [""],
       "price": 0
-}
+},
   "featured4": {
       "itemGrants": [""],
       "price": 0
-}
+},
   "featured5": {
       "itemGrants": [""],
       "price": 0
-}
+},
 ```
 
 &nbsp;
