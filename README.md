@@ -107,65 +107,38 @@ Each slot needs:
 {
   "//": "BR Item Shop Config",
   "daily1": {
-      "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+      "itemGrants": ["AthenaDance:EID_TakeTheL"],
       "price": 1500
   },
   "daily2": {
+      "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+      "price": 1500
+  },
+  "daily3": {
       "itemGrants": ["AthenaCharacter:CID_043_Athena_Commando_F_Stealth"],
       "price": 1200
   },
-  "daily3": {
+  "daily4": {
       "itemGrants": ["AthenaCharacter:CID_017_Athena_Commando_M"],
       "price": 1500
   },
-  "daily4": {
+  "daily5": {
       "itemGrants": ["AthenaCharacter:CID_029_Athena_Commando_F_Halloween"],
       "price": 2000
   },
-  "daily5": {
-      "itemGrants": [" AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
-      "price": 800
-  },
   "daily6": {
-      "itemGrants": [" AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
+      "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
       "price": 2000
   },
-  "daily7": {
-      "itemGrants": [" AthenaPickaxe:Pickaxe_Lockjaw"],
-      "price": 1000
-  },
-  "daily8": {
+  "featured1": {
       "itemGrants": ["AthenaBackpack:BID_004_BlackKnight"],
       "price": 500
-  },
-  "daily9": {
-      "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
-      "price": 500
-  },
-  "daily10": {
-      "itemGrants": ["AthenaBackpack:BID_273_AssassinSuitCoin"],
-      "price": 800
-  },
-  "featured1": {
-      "itemGrants": ["AthenaGlider:Glider_Warthog"],
-      "price": 800
   },
   "featured2": {
       "itemGrants": ["AthenaGlider:Umbrella_Snowflake"],
       "price": 800
-},
-  "featured3": {
-      "itemGrants": ["AthenaDance:EID_Floss"],
-      "price": 1000
-},
-  "featured4": {
-      "itemGrants": ["AthenaDance:EID_TakeTheL"],
-      "price": 1500
-},
-  "featured5": {
-      "itemGrants": [""],
-      "price": 0
-},
+  }
+}
 ```
 
 &nbsp;
