@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Find cosmetics:** [Fortnite.GG/Cosmetics](https://fortnite.gg/cosmetics?type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19&sort=oldest)
 > 
-> **Version limit:** Chapter 2 Season 5 (v15.30) and older only
+> **Version limit:** Chapter 3 Season 1 (v19.10) and older only
 
 &nbsp;
 
@@ -52,7 +52,7 @@
 
 # Step 3: Fill In Your Shop
 
-Your shop has **10 slots** (6 daily + 4 featured).
+Your shop has **8 slots** (6 daily + 2 featured).
 
 Each slot needs:
 • **itemGrants** = cosmetic ID in quotes
