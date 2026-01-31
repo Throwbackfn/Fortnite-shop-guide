@@ -63,36 +63,54 @@ Each slot needs:
 {
   "//": "BR Item Shop Config",
   "daily1": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "daily2": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "daily3": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      "0"
+    ],
+    "price": 0
   },
   "daily4": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "daily5": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "daily6": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "featured1": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
   },
   "featured2": {
-      "itemGrants": [""],
-      "price": 0
+    "itemGrants": [
+      ""
+    ],
+    "price": 0
+  }
+}
 ```
 
 &nbsp;
