@@ -61,54 +61,39 @@ Each slot needs:
 **Template:**
 ```json
 {
+{
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 1500
   },
   "daily2": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 1500
   },
   "daily3": {
-    "itemGrants": [
-      "0"
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 1200
   },
   "daily4": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 1500
   },
   "daily5": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 2000
   },
   "daily6": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 2000
   },
   "featured1": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 500
   },
   "featured2": {
-    "itemGrants": [
-      ""
-    ],
-    "price": 0
+      "itemGrants": [""],
+      "price": 800
   }
 }
 ```
